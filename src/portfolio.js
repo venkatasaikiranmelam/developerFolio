@@ -221,10 +221,28 @@ const bigProjects = {
           url: "https://github.com/venkatasaikiranmelam/keelworks-chatbot-api"
         }
       ]
+    },
+    {
+      image: require("./assets/images/Dashboard.png"),
+      projectName: "Global Market Dashboard",
+      projectDesc:
+        "An interactive dashboard visualizing real-time economic data: Top 30 GDP nations, S&P 500, currency exchange, oil prices, and correlation trends using Streamlit and Plotly.",
+      footerLink: [
+        {
+          name: "🌐 Live Monitor",
+          url: "https://global-market-dashboard.streamlit.app/"
+        },
+        {
+          name: "💻 GitHub Repo",
+          url: "https://github.com/venkatasaikiranmelam/global-market-dashboard"
+        }
+      ]
     }
   ],
   display: true
 };
+
+
 
 
 
